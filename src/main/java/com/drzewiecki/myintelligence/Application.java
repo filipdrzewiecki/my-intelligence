@@ -1,4 +1,4 @@
-package com.drzewiecki.myinteligence;
+package com.drzewiecki.myintelligence;
 
 import lombok.AllArgsConstructor;
 import org.springframework.boot.SpringApplication;

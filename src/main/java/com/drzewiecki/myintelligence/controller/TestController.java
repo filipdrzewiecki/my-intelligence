@@ -1,4 +1,4 @@
-package com.drzewiecki.myinteligence.controller;
+package com.drzewiecki.myintelligence.controller;
 
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.web.bind.annotation.GetMapping;

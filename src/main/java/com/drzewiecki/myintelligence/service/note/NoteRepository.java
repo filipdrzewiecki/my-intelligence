@@ -1,4 +1,4 @@
-package com.drzewiecki.myinteligence.service.note;
+package com.drzewiecki.myintelligence.service.note;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;

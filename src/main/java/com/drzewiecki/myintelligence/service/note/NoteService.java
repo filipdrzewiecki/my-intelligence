@@ -1,4 +1,4 @@
-package com.drzewiecki.myinteligence.service.note;
+package com.drzewiecki.myintelligence.service.note;
 
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
